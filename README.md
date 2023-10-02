@@ -10,4 +10,4 @@ Main topics covered:
 - ON DELETE, Triggers
 - Joins: Left, Right, Inner, Full
 - Stored procedures and functions 
-![](SQL_Project_CompanyDatabase/Screenshot%202023-10-02%20112750)
+![](muhammadajlal/SQL_Project_CompanyDatabase/blob/main/Screenshot%202023-10-02%20112750.png)
