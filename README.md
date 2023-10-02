@@ -1,6 +1,5 @@
 # SQL_Project_CompanyDatabase
 
-
 I used MySQL Workbench to create a complex database named testDB for a company and then pulled desired data using SQL queries.
 
 Main topics covered:
@@ -10,4 +9,4 @@ Main topics covered:
 - ON DELETE, Triggers
 - Joins: Left, Right, Inner, Full
 - Stored procedures and functions 
-![](muhammadajlal/SQL_Project_CompanyDatabase/blob/main/Screenshot%202023-10-02%20112750.png)
+![Screenshot 2023-10-02 112750](https://github.com/muhammadajlal/SQL_Project_CompanyDatabase/assets/144449514/b48022ca-839e-44b4-a7bd-384187e01854)
